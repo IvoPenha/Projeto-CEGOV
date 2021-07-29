@@ -7,10 +7,10 @@ import{BrowserRouter, Switch, Route} from 'react-router-dom'
 
 ReactDOM.render(
   <>
-  <HashRouter>
+  <BrowserRouter>
       <App/>
      
-  </HashRouter>
+  </BrowserRouter>
   </>,
   document.getElementById('root')
 );
