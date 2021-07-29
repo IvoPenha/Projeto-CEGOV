@@ -1,0 +1,33 @@
+@import '~cegov-antd/dist/index.css';
+
+body { overflow-x: hidden; }
+
+
+article{
+  position: relative;
+  height: 900px;
+}
+.Lateral{
+  float: left;
+  width: 20%;
+  height: 480px;
+  padding: 5px;
+  border-right: 1px ridge #93c487;
+}
+
+table {
+  transform: scale(0.95);
+  max-width:700px;
+  max-height: 497px;
+  
+}
+footer{
+  position:relative;
+  min-height: 100vh;
+  min-height: -webkit-calc(100vh - 100px);
+  min-height:    -moz-calc(100vh - 100px);
+  min-height:         calc(100vh - 100px);
+  min-height: 100px;
+}
+
+  

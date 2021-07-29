@@ -1,0 +1,57 @@
+.Main{
+    padding:10px;
+    font-size:0.5em;
+    
+}
+.Main .InputBar{
+    padding-left:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Main .Barra{
+        float:left;
+        width: 65%;
+        padding-right:0px;
+        padding-top: 5px;
+        
+        
+    
+    
+    
+}
+
+.ant-table-header{
+    color: rgb(0, 184, 148);
+}
+.ant-table-thead > tr > th {
+    position: relative;
+    color: rgba(253, 253, 253, 0.85);
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: left;
+    background: #87c878;
+}
+
+.Main.Pesquisa {
+    position: relative;
+    float:right;
+    padding-left: 0px;
+    width: 20px;
+    
+    
+}
+.Main .Pesquisa Button{
+    
+    width: 15%;
+    text-align: center;
+
+    padding-top: 5px;
+    padding-left:0px;
+    padding-right: 10px
+    
+    
+}
+.Main .BotaoDash Button{
+    position:absolute;
+    right:10px;
+}

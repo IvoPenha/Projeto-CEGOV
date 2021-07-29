@@ -1,0 +1,29 @@
+Header{
+  top:0px;
+  position:relative;
+  border-bottom-style: solid;
+  border-bottom-width: 03px;
+  border-bottom-color: #87c878;
+  height:80%;
+  
+}
+img{
+  padding-top: 50px;  
+  margin: 0 auto;
+}
+.ant-divider-vertical {
+    position: relative;
+    top: -0.06em;
+    display: inline-block;
+    height: 0.9em;
+    margin: 0 8px;
+    vertical-align: middle;
+    border-top: 0;
+    border-left: 2px solid #767b80;
+  }
+  .cegov-accessibility-right a {
+    color:#4f555a;
+}
+.cegov-accessibility {
+    height: 30px;
+}
